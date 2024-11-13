@@ -1,0 +1,10 @@
+{
+  "name": "Facebook Chatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "axios": "^0.21.0"
+  }
+}
